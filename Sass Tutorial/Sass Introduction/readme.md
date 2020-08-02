@@ -1,24 +1,25 @@
-What You Should Already Know
+# What You Should Already Know
 Before you continue you should have a basic understanding of the following:
 
-HTML
-CSS
+- HTML
+- CSS
 If you want to study these subjects first, find the tutorials on our Home page.
 
-What is Sass?
-Sass stands for Syntactically Awesome Stylesheet
-Sass is an extension to CSS
-Sass is a CSS pre-processor
-Sass is completely compatible with all versions of CSS
-Sass reduces repetition of CSS and therefore saves time
-Sass was designed by Hampton Catlin and developed by Natalie Weizenbaum in 2006
-Sass is free to download and use
-Why Use Sass?
+# What is Sass?
+- Sass stands for Syntactically Awesome Stylesheet
+- Sass is an extension to CSS
+- Sass is a CSS pre-processor
+- Sass is completely compatible with all versions of CSS
+- Sass reduces repetition of CSS and therefore saves time
+- Sass was designed by Hampton Catlin and developed by Natalie Weizenbaum in 2006
+- Sass is free to download and use
+
+# Why Use Sass?
 Stylesheets are getting larger, more complex, and harder to maintain. This is where a CSS pre-processor can help.
 
 Sass lets you use features that do not exist in CSS, like variables, nested rules, mixins, imports, inheritance, built-in functions, and other stuff.
 
-A Simple Example why Sass is Useful
+# A Simple Example why Sass is Useful
 Let's say we have a website with three main colors:
 
 ```
@@ -69,7 +70,7 @@ Sass files has the ".scss" file extension.
 Sass Comments
 Sass supports standard CSS comments /* comment */, and in addition it supports inline comments // comment:
 
-Sass Example
+# Sass Example
 ```
 /* define primary colors */
 $primary_1: #a2b9bc;
