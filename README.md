@@ -1,5 +1,7 @@
 # Sass
 
 - [x] Sass Tutorial
--        [ ] \(Optional) Abrir um problema de acompanhamento
+-  Sass Intro
+-  Sass Installation
+-  Sass Variables
 - [ ] Sass Functions
