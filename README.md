@@ -1,7 +1,7 @@
 # Sass
 
 - [x] Sass Tutorial
-    -  Sass Intro
+    - [x] Sass Intro
     -  Sass Installation
     -  Sass Variables
     -  Sass Nesting
