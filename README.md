@@ -1,5 +1,5 @@
 # Sass
 
 - [x] Sass Tutorial
--- [ ] Push my commits to GitHub
+- [ ] \(Optional) Abrir um problema de acompanhamento
 - [ ] Sass Functions
